@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lijo James</h1>
 
-- :computer: I’m currently learning about **Web Application Development & React**
+- :computer: I’m currently working as a Support Engineer & learning about **Web Application Development & React**
 - :email: How to reach me **lijopjames@gmail.com**
 - :arrow_upper_right: Know about my work & experiences [My Linkedin](https://www.linkedin.com/in/lijopjames/)
 
