@@ -9,4 +9,4 @@
 - **Cloud & DevOps:** Microsoft Azure, Azure DevOps, Terraform, PowerShell, Docker
 - **Databases & Data:** Oracle SQL, MySQL
 - **Version Control & Tools:** Git, GitHub, VS Code, CI/CD
-- - **Programming & Web:** JavaScript, C#, React, Node.js, HTML/CSS
+- **Programming & Web:** JavaScript, C#, React, Node.js, HTML/CSS
