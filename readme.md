@@ -7,6 +7,6 @@
 ## 🛠️ Skills & Technologies
 
 - **Cloud & DevOps:** Microsoft Azure, Azure DevOps, Terraform, PowerShell, Docker
-- **Programming & Web:** JavaScript, Python, React, Node.js, HTML/CSS
 - **Databases & Data:** Oracle SQL, MySQL
 - **Version Control & Tools:** Git, GitHub, VS Code, CI/CD
+- - **Programming & Web:** JavaScript, C#, React, Node.js, HTML/CSS
